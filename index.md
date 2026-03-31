@@ -4,10 +4,10 @@ title: Anne Nakamoto's CV
 ---
 # Anne Nakamoto  
 
-  
-PhD Candidate  
-Department of Biomolecular Engineering and Bioinformatics | Genomics Institute  
-University of California, Santa Cruz
+` `  
+`PhD Candidate`  
+`Department of Biomolecular Engineering and Bioinformatics | Genomics Institute`  
+`University of California, Santa Cruz`  
 
 <div id="webaddress">
 <a href="mailto:aanakamo@ucsc.edu">aanakamo@ucsc.edu</a>
@@ -18,32 +18,32 @@ University of California, Santa Cruz
 
 ## **Education**
 
-`2023-Present`
+`2023-`
 **PhD** in Biomolecular Engineering & Bioinformatics, University of California, 
 Santa Cruz, USA
 
-`2018-2022`
+`2018-22`
 **BA** in Molecular & Cell Biology: Genetics, Genomics, and Development & 
 Minor in Computer Science, University of California, Berkeley, USA
 
 
 ## **Research Experience**
 
-`2024-Present`
+`2024-`
 **Graduate Student Researcher**, Dissertation research
 - Dr. Russ Corbett-Detig Lab, Department of Biomolecular Engineering, University of California, Santa Cruz
 
-`2023-2024`
+`2023-24`
 Graduate Student Researcher, Research rotations
 - Dr. Russ Corbett-Detig Lab, Department of Biomolecular Engineering
 - Dr. Joanna Kelley Lab, Department of Ecology and Evolutionary Biology
 - Dr. Shelbi Russell Lab, Department of Biomolecular Engineering, University of California, Santa Cruz
 
-`2022-2023`
+`2022-23`
 **Staff Research Associate II**, Dr. Ksenia Krasileva Lab, Department of 
 Plant and Microbial Biology, University of California, Berkeley
 
-`2020-2022`
+`2020-22`
 **Undergraduate Researcher**, Dr. Ksenia Krasileva Lab, Department of 
 Plant and Microbial Biology, University of California, Berkeley
 
@@ -148,29 +148,29 @@ Dr. Daniel Croll Lab, University of Neuchâtel. Virtual seminar: “Investigatin
 
 ## **Teaching Experience**
 
-`2024, 2025`
+`2024,25`
 **Instructor for the BMEB Bootcamp**, a two-week orientation for incoming PhD 
 and Masters students led by the T32 Genome Sciences Fellows. Led hands-on genome sequencing and assembly tutorials. Department of Biomolecular Engineering & Bioinformatics, University of California, Santa Cruz, USA
 
-`2022, 2023`
+`2022,23`
 **Instructor for the Genomes and Plant Health Workshop**, Summer 2022 and 
 Summer 2023, hosted by Ksenia Krasileva Lab, Department of  Plant and Microbial Biology, University of California, Berkeley
 
 
 ## **Mentorship**
 
-`2026-present`
+`2026-`
 **Rebecca Abraham** - undergraduate student, bioinformatics techniques for 
 transposable element analysis
 
-`2025-2026`
+`2025-26`
 **Faith Okamoto** - Science Support Network mentee, Program in Biomedical 
 Sciences & Engineering, University of California, Santa Cruz
 
 
 ## **Work Experience**
 
-`2019-2021`
+`2019-21`
 **Intermittent Lab Assistant** at Daniel K. Inouye U.S. Pacific Basin Agricultural 
 Research Center, Hilo, Hawaii, USA
 
