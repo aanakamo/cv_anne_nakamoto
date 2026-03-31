@@ -2,7 +2,7 @@
 layout: cv
 title: Anne Nakamoto's CV
 ---
-# Anne Nakamoto  
+# **Anne Nakamoto**  
 
 <br />
 PhD Candidate  
