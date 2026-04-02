@@ -134,7 +134,7 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 `2022`
 **Center for Computational Biology Retreat**, University of California, Berkeley. Poster: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
-2022
+`2022`
 **Plant and Microbial Biology Department Retreat**, University of California, Berkeley. Poster: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
 ## **Seminars**
