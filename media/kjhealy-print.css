@@ -71,9 +71,12 @@ p {
 
 code {
 	font: normal normal;
+	font-weight: 400;
 	font-size: 100%;
 	/*line-height: 1em;*/
+	line-height: 1.5em;
 	font-family: Menlo,monospace,sans-serif;
+	color: #aaa;
 }
 
 p code {
@@ -119,10 +122,10 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3.2em;
+	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 28%;
+	left: 3%;
 	color: #007988
 }
 
@@ -130,6 +133,7 @@ h1+p {
 	/*subtitle*/
 	/*font-style: italic;*/
 	font-size: 110%;
+	left: 3%;
 }
 
 h2 {
@@ -164,10 +168,10 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 28%;
+	left: 3%;
 	color: #007988;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 100%;
 }
 
 #webaddress a {
