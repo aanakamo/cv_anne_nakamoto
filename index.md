@@ -100,44 +100,44 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 **Anne Nakamoto**,* Pierre Joubert,* Ksenia Krasileva. Intraspecific variation of transposable elements reveals differences in the evolutionary history of fungal phytopathogen pathotypes. [Genome Biology and Evolution, 15 (12), evad206](https://doi.org/10.1093/gbe/evad206).
 
 
-## **Conference Presentations** 
+## **Conference Presentations**  
 
 ### Talks
 
 `2026`
-**Biomolecular Engineering Research Retreat**, University of California, Santa Cruz. Talk: “Comparative mutation load in the California Conservation Genomics Project.”
+**Biomolecular Engineering Research Retreat**, University of California, Santa Cruz. “Comparative mutation load in the California Conservation Genomics Project.”
 
 `2025`
-**Evolution Conference**, Athens, GA. Talk: “Investigating deleterious mutation burden across populations and landscapes in the California Conservation Genomics Project.”
+**Evolution Conference**, Athens, GA. “Investigating deleterious mutation burden across populations and landscapes in the California Conservation Genomics Project.”
 
 `2024`
-**Joint Idaho and Washington Chapters of the Wildlife Society Meeting**, Coeur d’Alene, Idaho. Talk: “Investigating Mammalian Hibernation Phenotypes using Comparative Transcriptomics.”
+**Joint Idaho and Washington Chapters of the Wildlife Society Meeting**, Coeur d’Alene, Idaho. “Investigating Mammalian Hibernation Phenotypes using Comparative Transcriptomics.”
 
 `2022`
 **Plant and Microbial Biology Department Retreat**, University of California, Berkeley. Speed Talk: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
 `2021`
-**Summer Undergraduate Research Fellowship Program Conference**, University of California, Berkeley. Talk: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
+**Summer Undergraduate Research Fellowship Program Conference**, University of California, Berkeley. “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
 ### Posters
 
 `2026`
-**NHGRI Training Conference**, St. Louis, MO. Poster: “From orientation to publication: training in genome sequencing and assembly for new graduate students.”
+**NHGRI Training Conference**, St. Louis, MO. “From orientation to publication: training in genome sequencing and assembly for new graduate students.”
 
 `2025`
-**Bay Area Population Genomics Conference**, Stanford University, CA. Poster: “Comparative mutation load in the California Conservation Genomics Project.”
+**Bay Area Population Genomics Conference**, Stanford University, CA. “Comparative mutation load in the California Conservation Genomics Project.”
 
 `2025`
-**The 12th Wolbachia Conference**, Okinawa Institute of Science and Technology (OIST), Okinawa, Japan. Poster: “Mining for novel bacterial symbiont genomes of invertebrate metazoan hosts through de novo assembly.”
+**The 12th Wolbachia Conference**, Okinawa Institute of Science and Technology (OIST), Okinawa, Japan. “Mining for novel bacterial symbiont genomes of invertebrate metazoan hosts through de novo assembly.”
 
 `2023`
-**Biology of Genomes**, Cold Spring Harbor Laboratory. Poster: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
+**Biology of Genomes**, Cold Spring Harbor Laboratory. “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
 `2022`
-**Center for Computational Biology Retreat**, University of California, Berkeley. Poster: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
+**Center for Computational Biology Retreat**, University of California, Berkeley. “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
 `2022`
-**Plant and Microbial Biology Department Retreat**, University of California, Berkeley. Poster: “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
+**Plant and Microbial Biology Department Retreat**, University of California, Berkeley. “Investigating the role of transposable elements in fungal plant pathogen genome evolution.”
 
 ## **Seminars**
 
