@@ -100,7 +100,7 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 **Anne Nakamoto**,* Pierre Joubert,* Ksenia Krasileva. Intraspecific variation of transposable elements reveals differences in the evolutionary history of fungal phytopathogen pathotypes. [Genome Biology and Evolution, 15 (12), evad206](https://doi.org/10.1093/gbe/evad206).
 
 
-## **Conference Presentations**
+## **Conference Presentations** 
 
 ### Talks
 
