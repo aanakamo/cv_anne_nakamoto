@@ -94,15 +94,15 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: "• ";
 	position: relative;
-	left: -0.25em;
-}*/
+	left: -0.15em;
+}
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
+	padding-left: 1.5em;
 	text-indent: -1.25em;
 	/*color: #777;*/
 }
