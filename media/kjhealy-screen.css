@@ -79,7 +79,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -16%;
+	left: -17%;
 }
 
 
@@ -139,6 +139,7 @@ h2 {
 	font-size: 1.1em;
 	color: #007988;
 	margin-top: 3em;
+	margin-left: 1.5em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -150,6 +151,7 @@ h3 {
 	line-height: 2em; 
 	position: relative;
 	top: 1.7em;
+	margin-left: 1.5em;
 	text-align: right;
 	width: 17%;
 }
