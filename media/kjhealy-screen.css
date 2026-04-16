@@ -96,9 +96,9 @@ ul {
 
 /*uncomment to get dashes in the list*/
 li:before {
-	content: "  • ";
+	content: "• ";
 	position: relative;
-	left: -0.25em;
+	left: 34%;
 }
 
 li {
