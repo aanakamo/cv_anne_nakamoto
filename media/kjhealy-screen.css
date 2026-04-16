@@ -75,7 +75,7 @@ code {
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
-	vertical-align: baseline;
+	vertical-align: bottom;
 }
 
 p code {
