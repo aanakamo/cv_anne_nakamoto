@@ -65,7 +65,7 @@ p {
 	position: relative;
 	left: 30%;
 	margin-bottom: 0.7em;
-	margin-right: 3em;
+	margin-right: 6em;
 	width: 70%;
 }
 
@@ -89,7 +89,7 @@ ul {
 	width: 70%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
-	margin-right: 3em;
+	margin-right: 6em;
 }
 
 /*uncomment to get dashes in the list*/
