@@ -71,12 +71,11 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 1em;
+	font-size: 110%;
 	line-height: 1.5em;
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
 	vertical-align: bottom;
-	top: 0.1em;
 }
 
 p code {
