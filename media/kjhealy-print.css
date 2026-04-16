@@ -64,7 +64,8 @@ body {
 p {
 	position: relative;
 	left: 28%;
-	margin-bottom: 1em;
+	margin-top: 0.7em;
+	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 70%;
 }
