@@ -16,8 +16,8 @@ University of California, Santa Cruz
 | <a href="https://bsky.app/profile/annenakamoto.bsky.social">@annenakamoto</a>
 </div>
 
-## **Research Interests**
-I am broadly interested in evolutionary genomics, with a focus on creating bioinformatic analysis frameworks for landscape-scale comparative genomics, for the study and conservation of biodiversity.
+## **About Me**
+I am an evolutionary genomicist and bioinformatician whose research uses landscape-scale comparative genomics to inform biodiversity conservation. My work spans diverse taxa, including fish, mammals, birds, plants, herps, and invertebrates in California, as well as fungal pathogens affecting a native tree in Hawai‘i.
 
 ## **Education**
 
