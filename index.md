@@ -83,10 +83,10 @@ Plant and Microbial Biology, University of California, Berkeley
 Landen Gozashti, **Anne Nakamoto**, Shelbi Russell, Russell Corbett-Detig. Horizontal transmission of functionally diverse transposons is a major source of new introns. [Proc. Natl. Acad. Sci., 122 (21) e2414761122](https://doi.org/10.1073/pnas.2414761122).
 
 `2024`
-Lionel Sugiyama, Brian Bushe, Eva Brill, MaryAnn Villalun, **Anne Nakamoto**, Lisa Keith. First Report of Leaf Spot Caused by Paramyrothecium roridum on Coffea arabica in Hawai‘i, U.S.A. [Plant Disease, 108 (10), 3198](https://doi.org/10.1094/PDIS-04-24-0746-PDN).
+Lionel Sugiyama, Brian Bushe, Eva Brill, MaryAnn Villalun, **Anne Nakamoto**, Lisa Keith. First Report of Leaf Spot Caused by _Paramyrothecium roridum_ on _Coffea arabica_ in Hawai‘i, U.S.A. [Plant Disease, 108 (10), 3198](https://doi.org/10.1094/PDIS-04-24-0746-PDN).
 
 `2024`
-Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandani, Lily Karim, Gabriel Penunuri, Ciara Wanket, Shelbi L Russell. Complete de novo assembly of Wolbachia endosymbiont of Drosophila willistoni using long-read genome sequencing. [Scientific Reports, 14 (1), 17770](https://doi.org/10.1038/s41598-024-68716-w). 
+Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandani, Lily Karim, Gabriel Penunuri, Ciara Wanket, Shelbi L Russell. Complete de novo assembly of _Wolbachia_ endosymbiont of _Drosophila willistoni_ using long-read genome sequencing. [Scientific Reports, 14 (1), 17770](https://doi.org/10.1038/s41598-024-68716-w). 
 
 `2023`
 **Anne Nakamoto**,* Pierre Joubert,* Ksenia Krasileva. Intraspecific variation of transposable elements reveals differences in the evolutionary history of fungal phytopathogen pathotypes. [Genome Biology and Evolution, 15 (12), evad206](https://doi.org/10.1093/gbe/evad206).
@@ -94,10 +94,10 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 ### Preprints
 
 `2026`
-**Anne Nakamoto**, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. Genome sequence of Ceratocystis huliohia, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i. In review at Microbiology Resource Announcements. Github repo: [Chuli_C25-5_genome_announcement](https://github.com/annenakamoto/Chuli_C25-5_genome_announcement).
+**Anne Nakamoto**, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. Genome sequence of _Ceratocystis huliohia_, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i. In review at Microbiology Resource Announcements. Github repo: [Chuli_C25-5_genome_announcement](https://github.com/annenakamoto/Chuli_C25-5_genome_announcement).
 
 `2025`
-Jodie Jacobs, Alexandra Lum, Darren D. Lee, Emry L Gutierrez, Jonah A Dionisio, Camryn N. Morey, Cade Mirchandani, Luke Sylvester, Hailey Loucks, **Anne Nakamoto**, Ciara Wanket, Ariana Cisneros, Alessandro Calicchio, Alexis Enstrom, Camille Headrick, Faith Okamoto, Kseniya Malukhina, Harrison D Heath, Petria Russell, Sagorika Nag, Thomas Gillespie, William Sobolewski, Zia Truong, Shelbi L. Russell. Complete de novo assembly of Wolbachia endosymbiont of contemporary Drosophila simulans using long-read genome sequencing. [EcoEvoRxiv](https://doi.org/10.32942/X2BM0X).
+Jodie Jacobs, Alexandra Lum, Darren D. Lee, Emry L Gutierrez, Jonah A Dionisio, Camryn N. Morey, Cade Mirchandani, Luke Sylvester, Hailey Loucks, **Anne Nakamoto**, Ciara Wanket, Ariana Cisneros, Alessandro Calicchio, Alexis Enstrom, Camille Headrick, Faith Okamoto, Kseniya Malukhina, Harrison D Heath, Petria Russell, Sagorika Nag, Thomas Gillespie, William Sobolewski, Zia Truong, Shelbi L. Russell. Complete de novo assembly of _Wolbachia_ endosymbiont of contemporary _Drosophila simulans_ using long-read genome sequencing. [EcoEvoRxiv](https://doi.org/10.32942/X2BM0X).
 
 ### Genomic Resources
 
@@ -169,10 +169,14 @@ transposable element analysis in the CCGP
 Sciences & Engineering, University of California, Santa Cruz
 
 `2024,25`
-**Instructor for the BMEB Bootcamp**, a two-week orientation for incoming PhD and Masters students led by the T32 Genome Sciences Fellows, Department of Biomolecular Engineering & Bioinformatics, University of California, Santa Cruz, USA. I co-developed and led a training program introducing new students to genome sequencing and bioinformatic analyses, allowing them to complete a full genome assembly workflow, gain experience with the research and publication process, contribute meaningful results, and build community through collaborative activities early in their graduate careers.
+**Instructor for the BMEB Bootcamp**, a two-week orientation for incoming PhD and Masters students led by the T32 Genome Sciences Fellows, Department of Biomolecular Engineering & Bioinformatics, University of California, Santa Cruz, USA.
+- Co-developed and led a training program introducing new students to genome sequencing and bioinformatic analyses
+- Students completed a full genome assembly workflow, gained experience with the research and publication process, contributed meaningful results, and built community through collaborative activities early in their graduate careers.
 
 `2022,23`
-**Instructor for the Genomes and Plant Health Workshop**, Summer 2022 and 2023, one session for undergraduate students and one for high school students each summer, hosted by Ksenia Krasileva Lab, Department of Plant and Microbial Biology, University of California, Berkeley. A workshop designed to engage students from diverse backgrounds in genomics and data science. I taught a module on genomics and computational biology, and led a hands-on tutorial teaching transposable element annotation.
+**Instructor for the Genomes and Plant Health Workshop**, Summer 2022 and 2023, one session for undergraduate students and one for high school students each summer, hosted by Ksenia Krasileva Lab, Department of Plant and Microbial Biology, University of California, Berkeley.
+- A workshop designed to engage students from diverse backgrounds in genomics and data science
+- I taught a module on genomics and computational biology, and led a hands-on tutorial teaching transposable element annotation.
 
 
 ## **Professional Activities**
