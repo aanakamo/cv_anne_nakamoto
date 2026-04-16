@@ -65,7 +65,7 @@ p {
 	position: relative;
 	left: 35%;
 	margin-bottom: 0.7em;
-	margin-right: 0;
+	margin-right: 1.5em;
 	width: 65%;
 }
 
@@ -139,7 +139,7 @@ h2 {
 	font-size: 1.1em;
 	color: #007988;
 	margin-top: 2.5em;
-	margin-left: 1em;
+	margin-left: 1.5em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -151,7 +151,7 @@ h3 {
 	line-height: 2em; 
 	position: relative;
 	top: 1.7em;
-	margin-left: 1em;
+	margin-left: 1.5em;
 	text-align: right;
 	width: 17%;
 }
