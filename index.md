@@ -16,6 +16,8 @@ University of California, Santa Cruz
 | <a href="https://bsky.app/profile/annenakamoto.bsky.social">@annenakamoto</a>
 </div>
 
+## **Research Interests**
+I am broadly interested in evolutionary genomics, with a focus on creating bioinformatic analysis frameworks for landscape-scale comparative genomics, for the study and conservation of biodiversity.
 
 ## **Education**
 
@@ -77,7 +79,7 @@ Plant and Microbial Biology, University of California, Berkeley
 ## **Publications**
 (\*authors contributed equally)
 
-### Journals
+### Peer-Reviewed Journal Articles
 
 `2025`
 Landen Gozashti, **Anne Nakamoto**, Shelbi Russell, Russell Corbett-Detig. Horizontal transmission of functionally diverse transposons is a major source of new introns. [Proc. Natl. Acad. Sci., 122 (21) e2414761122](https://doi.org/10.1073/pnas.2414761122).
@@ -181,11 +183,21 @@ Sciences & Engineering, University of California, Santa Cruz
 
 ## **Professional Activities**
 
+### Workshops & Symposia
+
 `2025`
 **Kelp Mapping & Genetics Workshop** participant. A collaborative effort to align the _Strategic Mapping of Giant Kelp and Bull Kelp Genomic Diversity_ project with management needs in California.
 
 `2021`
 **5th Uppsala Transposon Symposium** (virtual) attendee
+
+### Professional Memberships
+
+`2026-`
+Society for the Study of Evolution
+
+`2026-`
+Genetics Society of America
 
 
 ## **Work Experience**
