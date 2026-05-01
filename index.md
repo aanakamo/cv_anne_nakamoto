@@ -81,6 +81,9 @@ Plant and Microbial Biology, University of California, Berkeley
 
 ### Peer-Reviewed Journal Articles
 
+`2026`
+Jodie Jacobs, Alexandra Lum, Elyse Mina, Camryn N. Morey, Darren D. Lee, Emry Gutierrez, Jonah Dionisio, Cade Mirchandani, Luke Sylvester, **Anne Nakamoto**, Hailey Loucks, Ciara Wanket, Ariana Cisneros, Alessandro Calicchio, Alexis N. Enstrom, Camille Headrick, Faith Okamoto, Harrison D. Heath, Kseniya Malukhina, Petria Russell, Sagorika Nag, Thomas Gillespie, William Sobolewski, Zia Truong, Shelbi L. Russell. Complete _de novo_ assembly of _Wolbachia_ endosymbiont of contemporary _Drosophila simulans_ using long-read genome sequencing. [Microbiology Resource Announcements, 0:e00992-25](https://doi.org/10.1128/mra.00992-25).
+
 `2025`
 Landen Gozashti, **Anne Nakamoto**, Shelbi Russell, Russell Corbett-Detig. Horizontal transmission of functionally diverse transposons is a major source of new introns. [Proc. Natl. Acad. Sci., 122 (21) e2414761122](https://doi.org/10.1073/pnas.2414761122).
 
@@ -98,8 +101,6 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 `2026`
 **Anne Nakamoto**, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. Genome sequence of _Ceratocystis huliohia_, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i. Accepted at Microbiology Resource Announcements. Github repo: [Chuli_C25-5_genome_announcement](https://github.com/annenakamoto/Chuli_C25-5_genome_announcement).
 
-`2025`
-Jodie Jacobs, Alexandra Lum, Darren D. Lee, Emry L Gutierrez, Jonah A Dionisio, Camryn N. Morey, Cade Mirchandani, Luke Sylvester, Hailey Loucks, **Anne Nakamoto**, Ciara Wanket, Ariana Cisneros, Alessandro Calicchio, Alexis Enstrom, Camille Headrick, Faith Okamoto, Kseniya Malukhina, Harrison D Heath, Petria Russell, Sagorika Nag, Thomas Gillespie, William Sobolewski, Zia Truong, Shelbi L. Russell. Complete de novo assembly of _Wolbachia_ endosymbiont of contemporary _Drosophila simulans_ using long-read genome sequencing. [EcoEvoRxiv](https://doi.org/10.32942/X2BM0X).
 
 ### Genomic Resources
 
