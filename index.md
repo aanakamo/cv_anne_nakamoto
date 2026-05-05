@@ -54,6 +54,9 @@ Plant and Microbial Biology, University of California, Berkeley
 
 ## **Fellowships**
 
+`2026`
+**Achievement Rewards for College Scientists (ARCS) Foundation Fellowship**
+
 `2024`
 **T32 Genome Sciences Training Fellowship**, University of California, Santa Cruz
 
