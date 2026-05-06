@@ -85,6 +85,9 @@ Plant and Microbial Biology, University of California, Berkeley
 ### Peer-Reviewed Journal Articles
 
 `2026`
+**Anne Nakamoto**, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. Genome sequence of _Ceratocystis huliohia_, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i. [Microbiology Resource Announcements, 0:e00236-26](https://doi.org/10.1128/mra.00236-26).
+
+`2026`
 Jodie Jacobs, Alexandra Lum, Elyse Mina, Camryn N. Morey, Darren D. Lee, Emry Gutierrez, Jonah Dionisio, Cade Mirchandani, Luke Sylvester, **Anne Nakamoto**, Hailey Loucks, Ciara Wanket, Ariana Cisneros, Alessandro Calicchio, Alexis N. Enstrom, Camille Headrick, Faith Okamoto, Harrison D. Heath, Kseniya Malukhina, Petria Russell, Sagorika Nag, Thomas Gillespie, William Sobolewski, Zia Truong, Shelbi L. Russell. Complete _de novo_ assembly of _Wolbachia_ endosymbiont of contemporary _Drosophila simulans_ using long-read genome sequencing. [Microbiology Resource Announcements, 0:e00992-25](https://doi.org/10.1128/mra.00992-25).
 
 `2025`
@@ -100,9 +103,6 @@ Jodie Jacobs,* **Anne Nakamoto**,* Mira Mastoras, Hailey Loucks, Cade Mirchandan
 **Anne Nakamoto**,* Pierre Joubert,* Ksenia Krasileva. Intraspecific variation of transposable elements reveals differences in the evolutionary history of fungal phytopathogen pathotypes. [Genome Biology and Evolution, 15 (12), evad206](https://doi.org/10.1093/gbe/evad206).
 
 ### Preprints
-
-`2026`
-**Anne Nakamoto**, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. Genome sequence of _Ceratocystis huliohia_, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i. Accepted at Microbiology Resource Announcements. Github repo: [Chuli_C25-5_genome_announcement](https://github.com/annenakamoto/Chuli_C25-5_genome_announcement).
 
 
 ### Genomic Resources
